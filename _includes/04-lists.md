@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Fridays
+  1. With
+  2. The
+  3. Boys
